@@ -1,0 +1,138 @@
+  background-color{
+    color: #FAFAFA; 
+ }
+
+  /* Heading */
+
+  h1{
+    margin-left:20%;
+    font-size: 70px;
+    margin-top: 120px;
+    
+     
+  }
+  h2{
+    font-size: 40px;
+    margin-top: -300px;
+    margin-left: 25px;
+  }
+
+ /* ****** Class *********/
+
+ .Line{
+    list-style: none;
+    white-space: pre-line;
+    color: #999999;
+    line-height: 26px;
+        
+}
+button{
+ 
+   border-radius: 30px;
+   width: 100px;
+   height:40px;
+   font-size: 15px;
+   margin-left: 40px;
+   color:#FFEAEA;
+   background-color:#FF4E4E;
+   border-color:#FF4E4E;
+   margin-top: 40px;
+} 
+
+    
+    /* ***** ID ***** */
+ #Through{
+    text-decoration-line: line-through;
+    text-decoration-color: red;   
+} 
+#underline{
+  text-decoration: underline;
+  color: #FF4E4E;
+  font-size: 20px;
+  
+}
+/* Card 1 */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 150px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: -250px;
+    }
+
+  .myimg{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    margin-left: 25px;
+    margin-top: 25px;
+       
+}
+h5{
+  text-align: center;
+}
+  /* Card 2 */
+
+  .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 150px;
+    height: 200px;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-top: -200px;
+     
+    }
+
+ 
+
+/* Card 3 */
+
+.card3 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 150px;
+  height: 200px;
+  border-radius: 20px;
+  margin-left: 600px;
+  margin-top: -200px;
+   
+  }
+
+/* card4 */
+
+
+.card4 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 150px;
+  height: 200px;
+  border-radius: 20px;
+  margin-left: 800px;
+  margin-top: -200px;
+   
+  }
+
+/* card 5  */
+
+
+.card5 {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 150px;
+  height: 200px;
+  border-radius: 20px;
+  margin-left: 1000px;
+  margin-top: -200px;
+   
+  }
+
+  .Pragraph{
+    margin-left:83%;
+   
+    color: #979797; 
+    margin-top: -400px;
+    
+ } 
+
+ p{
+  font-size: 13px;
+ }
+

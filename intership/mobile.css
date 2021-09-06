@@ -1,0 +1,100 @@
+body{
+    background-color: #FAFAFA;
+}
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    color: 2px solid black;
+}
+ h1{
+    font-size: 70px;
+    color: 2px solid black;
+    margin-left: 50px;
+} 
+  /* icon  */
+.icon{
+    color :red;
+    font-size: 80px;
+    margin-left: 30px;
+    margin-top: -120px;
+}
+
+/* card */
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 400px;
+    height: 450px;
+    border-radius: 60px;
+    margin-left: 30px;
+   
+    }
+
+  .myimg{
+    width:250px;
+    height:250px;
+    border-radius:100%;
+    margin-left: 70px;
+    margin-top: 70px;
+       
+}
+h5{
+  text-align: center;
+  font-size: 40px;
+}
+  /* Card 2 */
+
+  .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 400px;
+    height: 450px;
+    border-radius: 60px;
+    margin-left: 520px;
+    margin-top: -520px;
+     
+  }
+ 
+
+
+.card3 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 400px;
+    height: 450px;
+    border-radius: 60px;
+    margin-left: 40px;
+    margin-top: 60px;
+    }
+
+  
+
+h5{
+  text-align: center;
+  font-size: 40px;
+}
+  /* Card 2 */
+
+  .card4 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 400px;
+    height: 450px;
+    border-radius: 60px;
+    margin-left: 530px;
+    margin-top: -440px;
+     
+  }
+
+
+  .Pragraph{
+    color: #979797; 
+    /* font-size: 500px; */
+    margin-left: 50px;
+    margin-top: 10px;
+ } 
+ #underline{
+    text-decoration: underline;
+    color: #FF4E4E;
+    font-size: 20px;
+    
+  }
