@@ -1,0 +1,27 @@
+h2{
+    color:red;
+    text-align: center;
+    border: 5px solid blueviolet;
+    cursor: pointer;
+}
+p:hover{
+    color: pink;
+}
+body{
+
+    /* background-image: url(image.jpg); */
+    background-size: cover;
+}
+header{
+    color: black;
+}
+li{
+    list-style: none;
+    display: inline ;
+}
+.boxmodel{
+    border: 5px solid blue;
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    margin: 0px  20px 0px 20px;
+}
